@@ -1,0 +1,47 @@
+a {
+    color: rgb(255, 255, 172);
+}
+
+body {
+    color: rgb(190, 190, 190);
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+hr {
+    border: dotted rgb(190, 190, 190) 6px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 16%;
+    padding-bottom: 50px;
+}
+
+.background {
+    background-image: url(https://i.insider.com/5dfab6ce855cc20c514e79f6?width=1000&format=jpeg&auto=webp);
+    
+    position: relative;
+}
+
+.container_text_image {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+}
+
+.list_text {
+    /* text-align: center; */
+}
+
+.image {
+    max-width: 400px;
+}
+
+.exalt_text {
+    background-color: rgb(0, 0, 0, 0.6);
+    padding: 20px;
+}
